@@ -1,0 +1,34 @@
+# === 개발 백업 (배포 대상 아님) ===
+*.bak
+*.bak_*
+n8n_Manager_One-Click_Install-Run.bat.bak_*
+
+# === 임시/빌드 산출물 ===
+_*.html
+_*.css
+_*.js
+_*.png
+*.tmp
+*.log
+
+# === OS / 편집기 잡파일 ===
+Thumbs.db
+desktop.ini
+.DS_Store
+*~
+
+# === n8n 실행 시 생성되는 사용자 데이터 (절대 커밋 금지) ===
+.n8n/
+n8n_backup_*/
+n8n_진단결과.txt
+n8n_*.txt
+
+# === 환경/비밀 (혹시라도 생성될 경우 차단) ===
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+*.p12
+secrets.*
+credentials.*

@@ -1,0 +1,71 @@
+n8n Manager — One-Click Install & Run Kit
+Copyright 2026 SoDam AI Studio
+
+This product (the "Kit": the .bat launcher and the documentation files
+README.md, README.en.md, GUIDE.md, GUIDE.en.md, 사용설명서.txt, and their PDFs)
+is licensed under the Apache License, Version 2.0 (the "License");
+you may not use these files except in compliance with the License.
+You may obtain a copy of the License in the accompanying LICENSE file or at:
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+
+
+================================================================================
+THIRD-PARTY SOFTWARE AND TRADEMARK NOTICE
+================================================================================
+
+1) n8n (the automation tool this Kit installs)
+   - This Kit does NOT bundle or redistribute n8n. It only downloads and
+     installs n8n from the public npm registry at the user's request.
+   - n8n is licensed under the "Sustainable Use License" (a fair-code license),
+     and is NOT an OSI-approved open-source license. Some components may be
+     covered by the separate n8n Enterprise License.
+   - Permitted (per n8n's license): personal use, internal business use,
+     self-hosting, and source code modification.
+   - Restricted: selling n8n as a service to third parties, white-labeling,
+     or redistributing n8n as the back-end of a commercial product. Such uses
+     require n8n's separate permission or an Enterprise License.
+   - Official license sources (verify directly before any commercial use):
+       https://docs.n8n.io/sustainable-use-license/
+       https://github.com/n8n-io/n8n/blob/master/LICENSE.md
+       https://n8n.io/pricing/
+
+2) Node.js
+   - This Kit may help install Node.js (downloaded from the official source
+     https://nodejs.org or via Windows "winget"). Node.js is distributed under
+     its own license (MIT and others). This Kit does not modify or redistribute
+     Node.js.
+
+3) Trademarks
+   - "n8n" is a trademark of n8n GmbH.
+   - "Node.js" is a trademark of the OpenJS Foundation.
+   - "Windows" is a trademark of Microsoft Corporation.
+   - All other trademarks are the property of their respective owners.
+
+================================================================================
+NON-AFFILIATION / 비제휴 고지
+================================================================================
+
+This Kit is an UNOFFICIAL, independent helper tool.
+It is NOT affiliated with, sponsored by, endorsed by, or certified by
+n8n GmbH, the OpenJS Foundation, or Microsoft Corporation.
+
+이 키트는 비공식 독립 도우미 도구입니다.
+n8n GmbH, OpenJS Foundation, Microsoft 와 제휴·후원·보증·인증 관계가 없습니다.
+
+================================================================================
+DISCLAIMER / 면책
+================================================================================
+
+THE KIT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. THE AUTHORS ARE NOT
+LIABLE FOR ANY DATA LOSS, DAMAGE, OR OTHER CONSEQUENCES ARISING FROM ITS USE.
+Backing up your data and safeguarding your passwords are the user's
+responsibility.
+
+이 키트는 "있는 그대로" 제공되며 어떠한 보증도 하지 않습니다. 사용으로 인한
+데이터 손실·손상·기타 결과에 대해 제작자는 책임지지 않습니다. 데이터 백업과
+비밀번호 보관은 사용자 본인의 책임입니다.
